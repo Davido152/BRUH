@@ -1,0 +1,25 @@
+{
+
+  "name": "BRUH",
+
+  "description": "Bot that says BRUH",
+
+  "version": "0.0.0",
+
+  "main": "index.js",
+
+  "scripts": {
+
+    "start": "node index.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "12.5.1",
+
+    "request": "2.81.0"
+
+  }
+
+}
